@@ -1,0 +1,3 @@
+[run]
+omit =
+     spaghetto/tests/conftest.py

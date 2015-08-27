@@ -1,0 +1,11 @@
+save/*
+data/
+trash/
+spaghetto.egg-info/
+.coverage
+.ipynb_checkpoints
+*~
+*.pyc
+tmp
+*.txt
+*.ipynb
